@@ -5,22 +5,22 @@
 | `P`  | Expand Main Pane              |
 | `W`  | Increase Main Pane Count      |
 | `E`  | Decrease Main Pane Count      |
-| `C`  | Move Focus CCW                |
-| `V`  | Move Focus CW                 |
+| `C`  | Move Focus ↺                  |
+| `V`  | Move Focus ↻                  |
 | `M`  | Move Focus To Main Window     |
-| `R`  | Move Focus CCW Screen         |
-| `L`  | Move Focus CW Screen          |
+| `R`  | Move Focus ↺ Screen           |
+| `L`  | Move Focus ↻ Screen           |
 | `↵`  | Swap Focused With Main Window |
 | `/`  | Force Re-evaluation           |
 | `K`  | Toggle Float                  |
 
-| `⌥⇧^` | Leader                    |
-| ----- | ------------------------- |
-| `␣`   | Cycle Layout Backwards    |
-| `J`   | Move Window to CCW Screen |
-| `P`   | Move Window to CW Screen  |
-| `C`   | Move Window CCW           |
-| `V`   | Move Window CW            |
-| `←`   | Throw Left One Space      |
-| `→`   | Throw Right One Space     |
-| `/`   | Relaunch                  |
+| `⌥⇧^` | Leader                  |
+| ----- | ----------------------- |
+| `␣`   | Cycle Layout Backwards  |
+| `J`   | Move Window to ↺ Screen |
+| `P`   | Move Window to ↻ Screen |
+| `C`   | Move Window ↺           |
+| `V`   | Move Window ↻           |
+| `←`   | Throw Left One Space    |
+| `→`   | Throw Right One Space   |
+| `/`   | Relaunch                |
