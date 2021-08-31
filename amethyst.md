@@ -5,11 +5,11 @@
 | `P`  | Expand Main Pane              |
 | `W`  | Increase Main Pane Count      |
 | `E`  | Decrease Main Pane Count      |
-| `C`  | Move Focus ↺                  |
-| `V`  | Move Focus ↻                  |
-| `M`  | Move Focus To Main Window     |
-| `R`  | Move Focus ↺ Screen           |
-| `L`  | Move Focus ↻ Screen           |
+| `C`  | Focus ↺                       |
+| `V`  | Focus ↻                       |
+| `M`  | Focus Main Window             |
+| `R`  | Focus ↺ Screen                |
+| `L`  | Focus ↻ Screen                |
 | `↵`  | Swap Focused With Main Window |
 | `/`  | Force Re-evaluation           |
 | `K`  | Toggle Float                  |
